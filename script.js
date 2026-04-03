@@ -67,7 +67,7 @@ const I18N = {
     work_li2: "<b>Go to sea:</b> Fish using our chosen method (net/line).",
     work_li3: "<b>Sort & ice:</b> Separate fish types and keep them on ice for freshness.",
     work_li4: "<b>Land & sell:</b> Bring to market and sell directly to buyers.",
-    work_tip: "Later we can add a “Boat & Gear” page too.",
+    work_tip: "“Boat & Gear”",
 
     tl_title: "Timeline",
     tl_sub: "Milestones that show progress (ECO FARM).",
@@ -184,7 +184,7 @@ const I18N = {
     work_li2: "<b>Papalaot:</b> Manghuli gamit ang napiling paraan (lambat/pamingwit).",
     work_li3: "<b>Pagsasaayos at yelo:</b> Paghiwalayin ang klase ng isda at ilagay sa yelo para sariwa.",
     work_li4: "<b>Pagdaong at benta:</b> Dalhin sa palengke at direktang ibenta sa bumibili.",
-    work_tip: "Sa susunod, puwede rin tayong magdagdag ng “Bangka at Kagamitan” page.",
+    work_tip: "“Bangka at Kagamitan”",
 
     tl_title: "Timeline",
     tl_sub: "Mga milestone na nagpapakita ng pag-unlad (ECO FARM).",
