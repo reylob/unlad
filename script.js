@@ -31,8 +31,8 @@ const I18N = {
     nav_contact: "Contact",
 
     hero_kicker: "Small fishing crew",
-    hero_title: "UNLAD — from the sea to the market, fresh catch handled with care.",
-    hero_lead: "UNLAD is a family-and-friends fishing team. We prepare our gear, go out together, sort and ice the catch, then sell directly to buyers — simple, honest, and fresh.",
+    hero_title: "ECO FARM — from the sea to the market, fresh catch handled with care.",
+    hero_lead: "ECO FARM is a family-and-friends fishing team. We prepare our gear, go out together, sort and ice the catch, then sell directly to buyers — simple, honest, and fresh.",
     pill_local: "Local crew",
     pill_sameday: "Same-day catch",
     pill_direct: "Direct selling",
@@ -42,7 +42,7 @@ const I18N = {
     cta_todays: "Today’s Catch (future)",
     hero_notice: "✅ Public showcase site (no accounts, no forms). Safe and easy for visitors.",
 
-    tag_title: "UNLAD means progress",
+    tag_title: "ECO FARM",
     tag_sub: "Replace these placeholder images later with your real boat, team, and catch photos.",
 
     v1_title: "Fresh handling",
@@ -52,9 +52,9 @@ const I18N = {
     v3_title: "Community first",
     v3_body: "We’re local. We sell locally. We build trust through transparency.",
 
-    about_title: "About UNLAD",
+    about_title: "About ECO FARM",
     about_sub: "Who we are, in simple words.",
-    about_body: "UNLAD is our team name — a Tagalog word meaning progress and growth. We started as a small crew and we keep improving our process: safer trips, better handling, and fair selling directly to the community.",
+    about_body: "ECO FARM We started as a small crew and we keep improving our process: safer trips, better handling, and fair selling directly to the community.",
     about_li1: "Small crew, teamwork-based operations",
     about_li2: "Simple and transparent handling process",
     about_li3: "Focus on freshness and fair pricing",
@@ -70,14 +70,14 @@ const I18N = {
     work_tip: "Later we can add a “Boat & Gear” page too.",
 
     tl_title: "Timeline",
-    tl_sub: "Milestones that show progress (unlad).",
+    tl_sub: "Milestones that show progress (ECO FARM).",
     tl_2023_title: "Started as a small family crew",
     tl_2023_body: "Learning the sea, preparing gear, and building teamwork for regular trips.",
     tl_2024_title: "Improved handling and selling",
     tl_2024_body: "Better icing and sorting, and began selling more directly to buyers.",
     tl_2025_title: "Growing community trust",
     tl_2025_body: "More repeat buyers, more consistent market presence, and planning online updates.",
-    tl_2026_title: "Launch of the UNLAD showcase site",
+    tl_2026_title: "Launch of the ECO FARM showcase site",
     tl_2026_body: "A public page to show who we are and how we work (no accounts yet).",
     tl_notice: "Want it more personal? Tell me the real start year + 2 key events, and I’ll rewrite this timeline.",
 
@@ -90,7 +90,7 @@ const I18N = {
 
     contact_title: "Contact",
     contact_sub: "Keep it simple (no forms yet).",
-    contact_card1_title: "Message UNLAD",
+    contact_card1_title: "Message ECO FARM",
     contact_card1_body: "For availability, pricing, and meeting time — message us directly.",
     contact_tip: "Replace the links above with your real Messenger/WhatsApp links.",
 
@@ -105,7 +105,7 @@ const I18N = {
     contact_map_note: "Later: put your exact market location link.",
 
     footer_text: "Built with free tools • Showcase site (public)",
-    why_title: "Why Choose UNLAD",
+    why_title: "Why Choose ECO FARM",
     why_sub: "Built on trust, freshness, and progress.",
     why_1_title: "Fresh From Sea",
     why_1_body: "We fish and sell directly to keep your seafood fresh.",
@@ -114,7 +114,7 @@ const I18N = {
     why_3_title: "Handled With Care",
     why_3_body: "Sorted and iced properly to maintain quality.",
     why_4_title: "Progress Mindset",
-    why_4_body: "UNLAD means progress — we improve every season.",
+    why_4_body: "ECO FARM means progress — we improve every season.",
     avail_title: "Available Today",
     avail_sub: "Fresh catch ready for pickup.",
     status_available: "Available",
@@ -129,7 +129,7 @@ const I18N = {
     status_available: "Available",
     status_sold: "Ubos Na",
 
-    why_title: "Bakit UNLAD",
+    why_title: "Bakit ECO FARM",
     why_sub: "Tiwala, sariwa, at tuloy-tuloy na pag-unlad.",
     why_1_title: "Sariwa Mula Dagat",
     why_1_body: "Direkta ang pangingisda at benta para sariwa ang seafood.",
@@ -138,7 +138,7 @@ const I18N = {
     why_3_title: "Maingat ang Paghawak",
     why_3_body: "Maayos ang pag-sort at pagyeyelo para sa kalidad.",
     why_4_title: "Isip Pag-unlad",
-    why_4_body: "UNLAD ang ibig sabihin ay progress — mas gumagaling bawat season.",
+    why_4_body: "ECO FARM ang ibig sabihin ay progress — mas gumagaling bawat season.",
 
     brand_sub: "pag-unlad • paglago • pasulong",
     nav_about: "Tungkol",
@@ -148,8 +148,8 @@ const I18N = {
     nav_contact: "Kontak",
 
     hero_kicker: "Maliit na pangkat ng mangingisda",
-    hero_title: "UNLAD — mula dagat hanggang palengke, sariwang huli na maingat ang paghawak.",
-    hero_lead: "Ang UNLAD ay pangkat ng pamilya at kaibigan. Inihahanda namin ang gamit, sabay-sabay na pumapalaot, inaayos at nilalagay sa yelo ang huli, at direktang nagbebenta sa mga bumibili — simple, tapat, at sariwa.",
+    hero_title: "ECO FARM — mula dagat hanggang palengke, sariwang huli na maingat ang paghawak.",
+    hero_lead: "Ang ECO FARM ay pangkat ng pamilya at kaibigan. Inihahanda namin ang gamit, sabay-sabay na pumapalaot, inaayos at nilalagay sa yelo ang huli, at direktang nagbebenta sa mga bumibili — simple, tapat, at sariwa.",
     pill_local: "Lokal na pangkat",
     pill_sameday: "Huli sa araw na iyon",
     pill_direct: "Direktang benta",
@@ -159,7 +159,7 @@ const I18N = {
     cta_todays: "Huli Ngayon (sa susunod)",
     hero_notice: "✅ Public showcase site (walang account, walang forms). Madali at ligtas para sa bisita.",
 
-    tag_title: "Ang UNLAD ay pag-unlad",
+    tag_title: "Ang ECO FARM ay pag-unlad",
     tag_sub: "Palitan ang mga placeholder na larawan kapag may totoong litrato na kayo (bangka, team, huli).",
 
     v1_title: "Maayos na paghawak",
@@ -169,9 +169,9 @@ const I18N = {
     v3_title: "Komunidad muna",
     v3_body: "Lokal kami. Lokal ang benta. Binubuo namin ang tiwala sa pagiging transparent.",
 
-    about_title: "Tungkol sa UNLAD",
+    about_title: "Tungkol sa ECO FARM",
     about_sub: "Sino kami, sa simpleng salita.",
-    about_body: "UNLAD ang pangalan ng aming pangkat — ibig sabihin ay pag-unlad at paglago. Nagsimula kami bilang maliit na crew at patuloy naming pinapabuti ang proseso: mas ligtas na biyahe, mas maayos na paghawak, at patas na benta direkta sa komunidad.",
+    about_body: "ECO FARM ang pangalan ng aming pangkat — ibig sabihin ay pag-unlad at paglago. Nagsimula kami bilang maliit na crew at patuloy naming pinapabuti ang proseso: mas ligtas na biyahe, mas maayos na paghawak, at patas na benta direkta sa komunidad.",
     about_li1: "Maliit na crew, teamwork ang sistema",
     about_li2: "Simple at malinaw ang proseso ng paghawak",
     about_li3: "Tumutok sa sariwa at patas na presyo",
@@ -187,14 +187,14 @@ const I18N = {
     work_tip: "Sa susunod, puwede rin tayong magdagdag ng “Bangka at Kagamitan” page.",
 
     tl_title: "Timeline",
-    tl_sub: "Mga milestone na nagpapakita ng pag-unlad (unlad).",
+    tl_sub: "Mga milestone na nagpapakita ng pag-unlad (ECO FARM).",
     tl_2023_title: "Nagsimula bilang maliit na pangkat ng pamilya",
     tl_2023_body: "Pag-aaral sa dagat, paghahanda ng gamit, at pagbuo ng teamwork para sa regular na biyahe.",
     tl_2024_title: "Pinahusay ang paghawak at pagbebenta",
     tl_2024_body: "Mas maayos na pagyeyelo at pag-aayos ng huli, at mas direktang pagbebenta sa bumibili.",
     tl_2025_title: "Lumakas ang tiwala ng komunidad",
     tl_2025_body: "Dumami ang suki, mas consistent sa palengke, at nagsimulang magplano ng online updates.",
-    tl_2026_title: "Inilunsad ang UNLAD showcase site",
+    tl_2026_title: "Inilunsad ang ECO FARM showcase site",
     tl_2026_body: "Public page para ipakita kung sino kami at paano kami nagtatrabaho (wala pang accounts).",
     tl_notice: "Gusto mo mas personal? Ibigay ang totoong start year + 2 key events, ire-rewrite ko ang timeline.",
 
@@ -206,7 +206,7 @@ const I18N = {
 
     contact_title: "Kontak",
     contact_sub: "Simple lang (wala pang forms).",
-    contact_card1_title: "Mag-message sa UNLAD",
+    contact_card1_title: "Mag-message sa ECO FARM",
     contact_card1_body: "Para sa availability, presyo, at meeting time — mag-message nang direkta.",
     contact_tip: "Palitan ang links ng totoong Messenger/WhatsApp links ninyo.",
 
